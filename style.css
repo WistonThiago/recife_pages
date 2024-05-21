@@ -1,0 +1,22 @@
+#title {
+    color: gold;
+    background-color: black;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+.pics_marks {
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+}
+
+#footer {
+    color: blue;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
